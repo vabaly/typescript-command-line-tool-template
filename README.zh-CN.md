@@ -1,10 +1,12 @@
-# <项目名称>
+# 项目名称
 
-[徽章]
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) [![workflow badge](https://github.com/vabaly/ai-image-creator/workflows/build/badge.svg)](https://github.com/vabaly/<project-name>) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
+[English](./README.md)
 
 > 此项目由 Github “通过模版仓库创建” 的功能创建，源模版是 [typescript-command-line-tool-template](https://github.com/vabaly/typescript-command-line-tool-template)
 
-[项目简单描述]
+项目简单描述
 
 ## 目录
 
