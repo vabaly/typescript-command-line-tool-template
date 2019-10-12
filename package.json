@@ -1,7 +1,7 @@
 {
-  "name": "project-name",
+  "name": "typescript-command-line-tool-template",
   "version": "1.0.0",
-  "description": "project-description",
+  "description": "typescript-command-line-tool-template",
   "main": "lib/index.js",
   "scripts": {
     "prepublish": "tsc",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vabaly/<project-name>.git"
+    "url": "git+https://github.com/vabaly/typescript-command-line-tool-template.git"
   },
   "keywords": [],
   "author": "vabaly",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vabaly/<project-name>/issues"
+    "url": "https://github.com/vabaly/typescript-command-line-tool-template/issues"
   },
-  "homepage": "https://github.com/vabaly/<project-name>#readme",
+  "homepage": "https://github.com/vabaly/typescript-command-line-tool-template#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-conventional": "^8.2.0",
