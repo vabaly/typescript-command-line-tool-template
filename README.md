@@ -1,4 +1,4 @@
-# Project Name
+# typescript-command-line-tool-template
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) [![workflow badge](https://github.com/vabaly/typescript-command-line-tool-template/workflows/build/badge.svg)](https://github.com/vabaly/typescript-command-line-tool-template) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
